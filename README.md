@@ -7,7 +7,7 @@ A recipe app built using react and prisma app
 Clone the repo from GitHub:
 
 ```
-git clone https://github.com/brayoh/recipe-app-react-prisma.git
+git clone https://github.com/tailung1004/app.git
 ```
 
 Fetch from the develop branch:
